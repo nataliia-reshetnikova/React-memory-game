@@ -1,0 +1,10 @@
+.BoxList{
+    align-items: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+    max-width: 500px;
+}

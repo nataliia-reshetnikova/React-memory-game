@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color:lightgoldenrodyellow;
+}
+.App{
+    background-color: #282c34;
+    border-radius: 10px;
+}
